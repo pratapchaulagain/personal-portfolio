@@ -1,0 +1,84 @@
+{
+  "shared": {
+    "fullName": "Pratap Chaulagain",
+    "firstName": "Pratap",
+    "cta": {
+      "lable1": "Read My Poems",
+      "lable2": "View Awards"
+    },
+    "contacts": {
+      "name": {
+        "label": "Name",
+        "value": "Pratap Chaulagain"
+      },
+      "address": {
+        "label": "Address",
+        "value": "Kathmandu, Nepal"
+      },
+      "phone": {
+        "label": "Phone",
+        "value": "+977 9863705846"
+      },
+      "email": {
+        "label": "Email",
+        "value": "pratapchaulagain952@gmail.com"
+      }
+    },
+    "stats": {
+      "poems": {
+        "label": "Poems",
+        "value": "12"
+      },
+      "awards": {
+        "label": "Awards",
+        "value": "4"
+      },
+      "essays": {
+        "label": "Essays",
+        "value": "6"
+      }
+    }
+  },
+  "heroSection": {
+    "title": "Poet • Writer • Essayist",
+    "description": "Award-winning poet and essayist Pratap Chaulagain crafts works that reflect on memory, culture, identity, and the human condition. Recognized through multiple national literary honors, his poetry and prose invite readers to pause, reflect, and connect with the stories that shape us."
+  },
+  "aboutSection": {
+    "title": "Life and Literary Journey",
+    "subtitle": "Rising Star of Nepali Literature: Pratap Chaulagain",
+    "intro": {
+      "label": "Introduction and birth",
+      "description": "Pratap Chaulagain was born on Bhadra 3, 2064 BS, in the sacred soil of Kavrepalanchok district, the confluence of beauty and consciousness. Chaulagain, who has been endowed with unique talent and sharp intellect since childhood, is a bright and rising star of contemporary Nepali literature. Pratap, who adorns dreams of broad horizons in his small eyes, has been equally excellent and exemplary in both the fields of study and creation since a young age."
+    },
+    "journey": {
+      "label": "The starting point of a literary journey",
+      "description": "His affinity with letters and deep love for words attracted him to the world of poetry in his childhood. At a young age, Khappis Pratap, who wanted to put his feelings into words, announced his formal literary journey at the tender age of 13 with a poem titled \"Bato Ani Zindagi\". The poem, which presented life as a continuous journey and the path as a living symbol of experience, became the strong foundation of his literary life."
+    },
+    "education": {
+      "label": "Education and Innovation: A Bridge Between Technology and Literature",
+      "description1": "Pratap, who has always excelled in his studies, has not been limited to the traditional stream. He is currently pursuing a BSc.CSIT (Computer Science and Information Technology) degree in the cutting-edge field of science and technology.",
+      "description2": "By uniting these two seemingly polar opposites - the logical world of technology and the emotional world of literature - he is acting as a \"bridge between technology and literature\". He is leading a historic campaign to connect literature with technology in the digital age and advance Nepali literature in a modern, accessible and innovative format.",
+      "description3": "\"He has the modern code of technology in one hand and the living pen of emotion in the other; he is giving literary consciousness to technology and the power of modern technology to literature.\""
+    },
+    "writing": {
+      "label": "Writing style and ideological perspective",
+      "description1": "Pratap Chaulagain's poems are not just a bunch of words, they are the conductors of serious thought and consciousness. The following aspects are mainly found in his writing:",
+
+      "description2": "Social realism and politics: He vividly portrays the anomalies of society, the voices of the common man, and the contemporary political ups and downs in his poems.",
+
+      "description3": "Philosophical consciousness and eternal truth: His style of understanding and explaining the cycle of life, the world, and time is very philosophical and mature.",
+
+      "description4": "Nature and human love: Deep love for nature and the gentle waves of human sensitivity, love, and emotion, along with history and contemporaneity, are the soul of his creations."
+    }
+  },
+  "poemSection": {
+    "title": "Featured  Poems",
+    "description": "A collection of poems exploring memory, identity, love, nature, and the quiet moments that shape human experience.",
+    "show": "Show",
+    "hide": "Hide"
+  },
+  "awardSection": {
+    "title": "Awards & Recognition",
+    "description": "Awarded various local and national awards, and awarded in various national and international poetry competitions."
+  }
+}
