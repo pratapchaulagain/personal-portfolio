@@ -1,6 +1,7 @@
 import { hasLocale, NextIntlClientProvider } from "next-intl"
 import { notFound } from "next/navigation"
 import { routing } from "@/i18n/routing"
+import { Analytics } from "@vercel/analytics/next"
 import { ThemeProvider } from "@/components/providers/theme-provider"
 
 import "../globals.css"
@@ -109,6 +110,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           <NextIntlClientProvider>
             <ThemeProvider>
               <TooltipProvider>
+                <Analytics />
                 <AudioProvider>{children}</AudioProvider>
               </TooltipProvider>
             </ThemeProvider>
